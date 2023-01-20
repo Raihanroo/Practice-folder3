@@ -1,0 +1,68 @@
+.banner-img1{
+    background-image: url("../images/banner.png");
+    height: 100vh;
+}
+.banner-img1 h1{
+    font-size: 40px;
+    font-weight: 600;
+    font-family: 'Poppins', sans-serif;
+    margin-top: 40px !important;
+}
+.banner-img1 p{
+  font-size: 14px;
+  font-weight: 300 !important;
+}
+.banner-img1 .btn{
+    width: 30%;
+    background-color: #fff;
+    color: blue;
+}
+
+.our-btn{
+    padding: 10px 50px;
+    border-radius: 50px;
+    border: none;
+    background-color: rgba(200, 235, 246, 0.2);
+    text-align: center;
+}
+.item{
+    padding: 30px 30px;
+    border-radius: 15px;
+}
+.item:hover{
+    background: #7D80DA;
+    box-shadow: 0px 15px 5px  rgba(0, 123, 255, 0.322);
+    color: #fff;
+}
+/* .hot-badge:hover{
+    visibility: visible;
+} */
+
+/* our clint */
+.clint{
+    padding: 20px 20px;
+    box-shadow: 0px 0px 20px  rgba(16, 16, 17, 0.322);
+}
+.imge1 img{
+    position: relative;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    z-index: 1;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 7px solid #fff;
+    margin-top: 10px; 
+}
+/* footer btn */
+footer{
+    background-color: black;
+}
+
+
+
+
+
+
+
