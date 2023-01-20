@@ -1,5 +1,8 @@
 .banner-img1{
     background-image: url("../images/banner.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
     height: 100vh;
 }
 .banner-img1 h1{
@@ -34,6 +37,10 @@
     box-shadow: 0px 15px 5px  rgba(0, 123, 255, 0.322);
     color: #fff;
 }
+.item:hover .our-btn{
+    background-color: #fff !important;
+    color: rgb(16, 16, 16);
+}
 /* .hot-badge:hover{
     visibility: visible;
 } */
@@ -59,8 +66,12 @@
 footer{
     background-color: black;
 }
-
-
+/* 
+.fot-para{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+} */
 
 
 
